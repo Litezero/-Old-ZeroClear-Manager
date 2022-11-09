@@ -1,4 +1,4 @@
-# 零尘面板
+# ZeroClear零尘面板
 ZeroClear是一个**简洁的开源BDS管理面板。**理论支持**所有BDS核心的Minecraft BE服务器**
 
 [MineBBS发布地址](https://www.minebbs.com/resources/zeroclear.1820/)
