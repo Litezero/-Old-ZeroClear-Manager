@@ -7,7 +7,7 @@ ZeroClear是一个**简洁的开源BDS管理面板。**理论支持**所有BDS�
 
 [请点击这里在issues反馈bug](https://github.com/Litezero/ZeroClear-Manager/issues)
 
-「制作功能」
+## 「制作功能」
 
 功能	BDS环境自动搭建/部署	GUI化服务器设定	插件管理	OP权限管理	Addon管理	QQ机器人	多语言支持
 
@@ -21,7 +21,7 @@ ZeroClear是一个**简洁的开源BDS管理面板。**理论支持**所有BDS�
 
 "O"表示正在制作的功能
 
-「开源相关」
+##「开源相关」
 
 ZeroClear是开源的，但确定您能在遵循LGPL协议以外遵守以下规定：
 
@@ -33,13 +33,13 @@ ZeroClear是开源的，但确定您能在遵循LGPL协议以外遵守以下规�
 
 ZeroClear Github存储库
 
-「关于国际语言提供」
+##「关于国际语言提供」
 
 提供语言	简体中文	英语	繁体中文
 
 制作情况	完成	完成	完成
 
-「最后」
+##「最后」
 
 ZeroClear为网友Zero制作，部分内容由WZA Studio提供。
 
