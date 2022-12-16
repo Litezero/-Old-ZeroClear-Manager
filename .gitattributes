@@ -1,1 +1,4 @@
 *.e linguist-language=E
+*.c linguist-language=C
+*.js linguist-language=JavaScript
+*.cpp linguist-language=C++
