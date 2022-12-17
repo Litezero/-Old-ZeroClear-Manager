@@ -44,6 +44,9 @@ ZeroClear是开源的，但确定您能在遵循LGPL协议以外遵守以下规�
 <span style="display:block;text-align:right;color:orangered;">你可以随意对接自己想对接的语言</span>
 
 ## 💎「特别鸣谢」
+ZeroClear项目基于EX_UI运行库/常用功能支持库等支持库
+
+ZeroClear的诞生离不开精易模块的支持，同时感谢精易论坛上的广大网友贡献的源代码
 
 ZeroClear为ZeroStudio制作
 
