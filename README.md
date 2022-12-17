@@ -11,7 +11,7 @@
 
 [请点击这里在issues反馈bug](https://github.com/Litezero/ZeroClear-Manager/issues)
 
-## 「正在修改&制作的制作功能」
+## 🏹「正在修改&制作的制作功能」
 **欢迎来这里体验ZeroClear V4的新UI&新功能！**
 
 
@@ -25,7 +25,7 @@
 | QQ机器人  |   √ |
 | 多语言支持  |   √ |
 
-## 「开源相关」
+## 🌆「开源相关」
 
 ZeroClear是开源的，但确定您能在遵循LGPL协议以外遵守以下规定：
 
@@ -34,7 +34,7 @@ ZeroClear是开源的，但确定您能在遵循LGPL协议以外遵守以下规�
 2.在二次发布、转载和各种分享为目的的行为上保留此贴链接、原作者名称
 
 3.不二次泄露此程序的核心源代码
-## 「关于国际语言提供」
+## 🌍「关于国际语言提供」
 |   自带的可视语言 |
 | :-- |
 | 简体中文 |
@@ -43,8 +43,8 @@ ZeroClear是开源的，但确定您能在遵循LGPL协议以外遵守以下规�
 得益于ZeroClear的lang文件对接，
 <span style="display:block;text-align:right;color:orangered;">你可以随意对接自己想对接的语言</span>
 
-## 「最后」
+## 💎「特别鸣谢」
 
-ZeroClear为网友Zero制作，部分内容由WZA Studio提供。
+ZeroClear为ZeroStudio制作
 
 感谢爱吃纸的二哈提供的一系列帮助，WZA Studio制作的UI以及ANL给我的支持。
