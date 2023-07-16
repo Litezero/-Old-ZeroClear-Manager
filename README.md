@@ -5,11 +5,7 @@
 
 >ZeroClear是一个**简洁的开源BDS管理面板。** 理论支持 **所有BDS核心的Minecraft BE服务器**
 
-[MineBBS发布地址](https://www.minebbs.com/resources/zeroclear.1820/)
-
-[请点击这里下载最新版本的构建](https://github.com/Litezero/ZeroClear-Manager/releases)
-
-[请点击这里在issues反馈bug](https://github.com/Litezero/ZeroClear-Manager/issues)
+[MineBBS](https://www.minebbs.com/resources/zeroclear.1820/)|[Github](https://github.com/Litezero/ZeroClear-Manager)|[官网](https://zeroclear.cn)
 
 ## 🏹「正在修改&制作的制作功能」
 **欢迎来这里体验ZeroClear V4的新UI&新功能！**
