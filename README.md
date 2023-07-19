@@ -1,7 +1,7 @@
 
 # 🚀 ZeroClear||Dust-Free Panel
 
-[阅读中文介绍文档](https://github.com/Litezero/ZeroClear-Manager/Readme_CN.md)
+[阅读中文介绍文档](https://github.com/Litezero/ZeroClear-Manager/blob/main/Readme_CN.md)
 
 ZeroClear is a super cool BDS management panel created by Litezero. It allows you to easily set up, configure, run and maintain your Minecraft BE server.
 
