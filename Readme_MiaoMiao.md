@@ -4,7 +4,7 @@ ZeroClear是Litezero大人做的超级棒棒的BDS管理面板喵。它可以让
 
 ![ZeroClear-Manager](https://socialify.git.ci/Litezero/ZeroClear-Manager/image?description=1&descriptionEditable=%E6%96%B0%E6%97%B6%E4%BB%A3BDS%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%A1%E7%90%86%E9%9D%A2%E6%9D%BF&font=Raleway&forks=1&issues=1&language=1&logo=https%3A%2F%2Fs1.ax1x.com%2F2022%2F11%2F11%2FzCmh0e.png&name=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
 
-ZeroClear是一个简单而厉害的开源BDS管理面板喵。它支持官方BDS核心的Minecraft BE服务器，还适配了LiteLoaderBDS(https://github.com/LiteLDev/LiteLoaderBDS)这个加载器喵。
+ZeroClear是一个简单而厉害的开源BDS管理面板喵。它支持官方BDS核心的Minecraft BE服务器，还适配了[LiteLoaderBDS](https://github.com/LiteLDev/LiteLoaderBDS)这个加载器喵。
 
 [Github](https://github.com/Litezero) | [issue](https://github.com/Litezero/ZeroClear-manager/issues)
 
