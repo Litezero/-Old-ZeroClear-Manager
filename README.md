@@ -5,7 +5,7 @@
 
 ZeroClear is a super cool BDS management panel created by Litezero. It allows you to easily set up, configure, run and maintain your Minecraft BE server.
 
-![ZeroClear-Manager]([https://socialify.git.ci/Litezero/ZeroClear-Manager/image?description=1&descriptionEditable=%E6%96%B0%E6%97%B6%E4%BB%A3BDS%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%A1%E7%90%86%E9%9D%A2%E6%9D%BF&font=Raleway&forks=1&issues=1&language=1&logo=https%3A%2F%2Fs1.ax1x.com%2F2022%2F11%2F11%2FzCmh0e.png&name=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light])
+![ZeroClear-Manager](https://socialify.git.ci/Litezero/ZeroClear-Manager/image?description=1&descriptionEditable=%E6%96%B0%E6%97%B6%E4%BB%A3BDS%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%A1%E7%90%86%E9%9D%A2%E6%9D%BF&font=Raleway&forks=1&issues=1&language=1&logo=https%3A%2F%2Fs1.ax1x.com%2F2022%2F11%2F11%2FzCmh0e.png&name=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
 
 ZeroClear is a simple and powerful open source BDS management panel. It supports the official BDS core of Minecraft BE server, and adapts to the LiteLoaderBDS(https://github.com/LiteLDev/LiteLoaderBDS) loader.
 
