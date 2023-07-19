@@ -1,49 +1,64 @@
 
-# ZeroClear||零尘面板
+# 🚀 ZeroClear||Dust-Free Panel
 
-![ZeroClear-Manager](https://socialify.git.ci/Litezero/ZeroClear-Manager/image?description=1&descriptionEditable=%E6%96%B0%E6%97%B6%E4%BB%A3BDS%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%A1%E7%90%86%E9%9D%A2%E6%9D%BF&font=Raleway&forks=1&issues=1&language=1&logo=https%3A%2F%2Fs1.ax1x.com%2F2022%2F11%2F11%2FzCmh0e.png&name=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
+[阅读中文介绍文档](https://github.com/Litezero/ZeroClear-Manager/README_CN.md)
+ZeroClear is a super cool BDS management panel created by Litezero. It allows you to easily set up, configure, run and maintain your Minecraft BE server.
 
->ZeroClear是一个**简洁的开源BDS管理面板。** 理论支持 **所有BDS核心的Minecraft BE服务器**
+![ZeroClear-Manager]([https://i.loli.net/2021/10/30/2w8n5y9f7Z3t6zv.png](https://socialify.git.ci/Litezero/ZeroClear-Manager/image?description=1&descriptionEditable=%E6%96%B0%E6%97%B6%E4%BB%A3BDS%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%A1%E7%90%86%E9%9D%A2%E6%9D%BF&font=Raleway&forks=1&issues=1&language=1&logo=https%3A%2F%2Fs1.ax1x.com%2F2022%2F11%2F11%2FzCmh0e.png&name=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light))
 
-[MineBBS](https://www.minebbs.com/resources/zeroclear.1820/)|[Github](https://github.com/Litezero/ZeroClear-Manager)|[官网](https://zeroclear.cn)
+ZeroClear is a simple and powerful open source BDS management panel. It supports the official BDS core of Minecraft BE server, and adapts to the LiteLoaderBDS(https://github.com/LiteLDev/LiteLoaderBDS) loader.
 
-## 🏹「正在修改&制作的制作功能」
-**欢迎来这里体验ZeroClear V4的新UI&新功能！**
+[Github](https://github.com/Litezero) | [issue](https://github.com/Litezero/ZeroClear-manager/issues)
 
+## 🎁 「Features under development」
 
-|   功能 | 制作状态 |  功能 | 制作状态 |
-| :-- | :---- | :---- | :----: |
-| BDS环境自动搭建/部署 |  √ |BDS崩溃自启| √
-| GUI化服务器设定 |  √ |彩色输出|√
-| 插件管理 |  √  |地图管理  |O 
-| 玩家管理  |   √ |UI换新|√
-| Addon管理  |   O|内网穿透|O 
-| QQ机器人  |   O  |
-| 多语言支持  |   √ |
+ZeroClear V4 is under development, it will bring a new UI and more features. Welcome to [here](https://www.minebbs.com/resources/zeroclear-bds.1820/) to experience the new UI & features of ZeroClear V4!
 
-## 🌆「开源相关」
+| Feature | Status | Feature | Status |
+| --- | --- | --- | --- |
+| BDS environment automatic setup/deployment | √ | BDS crash auto-restart | √ |
+| GUI server settings | √ | Colorful output | √ |
+| Plugin management | √ | Map management | O |
+| Player management | √ | UI renewal | √ |
+| Addon management | O | Intranet penetration | O |
+| QQ robot | O |  |  |
+| Multi-language support | √ |  |  |
 
-ZeroClear是开源的，但确定您能在遵循LGPL协议以外遵守以下规定：
+## 🔓 「Open source related」
 
-1.不允许将ZeroClear作为付费产品出售。
+ZeroClear is open source, but please make sure you can follow the following rules in addition to complying with the LGPL agreement:
 
-2.在二次发布、转载和各种分享为目的的行为上保留此贴链接、原作者名称
+1. Do not sell ZeroClear as a paid product.
+2. Retain this post link and original author name in secondary distribution, reprinting and various sharing purposes
+3. Do not leak the core source code of this program
 
-3.不二次泄露此程序的核心源代码
-## 🌍「关于国际语言提供」
-|   自带的可视语言 |
-| :-- |
-| 简体中文 |
-| 英语 | 
+## 🌎 「About international language provision」
 
-得益于ZeroClear的lang文件对接，
-<span style="display:block;text-align:right;color:orangered;">你可以随意对接自己想对接的语言</span>
+Built-in visual languages
 
-## 💎「特别鸣谢」
-ZeroClear项目基于EX_UI运行库/常用功能支持库等支持库
+- Simplified Chinese
+- English
 
-ZeroClear的诞生离不开精易模块的支持，同时感谢精易论坛上的广大网友贡献的源代码
+Thanks to ZeroClear's lang file docking, you can freely dock the language you want to dock
 
-ZeroClear为ZeroStudio制作
+## 💾 「Download methods」
 
-感谢爱吃纸的二哈提供的一系列帮助，WZA Studio制作的UI以及ANL给我的支持。
+You can download ZeroClear from the following two channels:
+
+- [MineBBS](https://www.minebbs.com/resources/zeroclear-bds.1820/)
+- [Github](https://github.com/Litezero/ZeroClear-manager)
+
+## 📝 「Feedback channels」
+
+If you encounter any problems or suggestions while using ZeroClear, please feel free to give us feedback on [Github issue](https://github.com/Litezero/ZeroClear-manager/issues). We will deal with your feedback as soon as possible.
+
+## 💖 「Special thanks」
+
+The ZeroClear project is based on EX_UI runtime library/common function support library and other support libraries
+
+The birth of ZeroClear is inseparable from the support of the easy module, and also thanks to the source code contributed by the majority of netizens on the easy forum
+
+ZeroClear is made by [Litezero](https://github.com/Litezero)
+
+Thanks to Ai Chi Zhi Erha for providing a series of help, WZA Studio for making the UI and ANL for their support.
+
