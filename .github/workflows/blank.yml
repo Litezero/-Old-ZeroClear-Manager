@@ -22,4 +22,4 @@ jobs:
 
       # Runs your exe program
       - name: Run exe
-        run: ./autopush.exe
+        run: ./Autopush.exe
