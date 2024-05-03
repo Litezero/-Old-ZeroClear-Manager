@@ -1,5 +1,5 @@
 
-# 🚀 ZeroClear||Dust-Free Panel
+# 🚀 ZeroClear Manager
 
 [阅读中文介绍文档](https://github.com/Litezero/ZeroClear-Manager/blob/main/Readme_CN.md)
 
