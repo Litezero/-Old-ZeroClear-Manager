@@ -10,17 +10,8 @@ ZeroClear是一个简洁而强大的开源BDS管理面板。它支持官方BDS�
 
 ## 🎁 「正在修改&制作的制作功能」
 
-ZeroClear V4正在开发中，它将带来全新的UI和更多的功能。欢迎来[这里](https://www.minebbs.com/resources/zeroclear-bds.1820/)体验ZeroClear V4的新UI&新功能！
-
-| 功能 | 制作状态 | 功能 | 制作状态 |
-| --- | --- | --- | --- |
-| BDS环境自动搭建/部署 | √ | BDS崩溃自启 | √ |
-| GUI化服务器设定 | √ | 彩色输出 | √ |
-| 插件管理 | √ | 地图管理 | O |
-| 玩家管理 | √ | UI换新 | √ |
-| Addon管理 | O | 内网穿透 | O |
-| QQ机器人 | O |  |  |
-| 多语言支持 | √ |  |  |
+ZeroClear V5正在开发中，它将带来全新的UI和更多的功能。欢迎来[这里](https://www.minebbs.com/resources/zeroclear-bds.1820/)体验ZeroClear V5的新UI&新功能！
+当前开发所缺：切换BDS版本  得益于LLAutoPack这一功能变得十分简单
 
 ## 🔓 「开源相关」
 
@@ -35,7 +26,6 @@ ZeroClear是开源的，但请确保您能在遵循LGPL协议以外遵守以下�
 自带的可视语言
 
 - 简体中文
-- 英语
 
 得益于ZeroClear的lang文件对接，你可以随意对接自己想对接的语言
 
